@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nwa6xc
 - I'm a student at UVA wise, studying software engineering.
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,pandas,numpy,C++, and R
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me nwa6xc@uvawise.edu
 
